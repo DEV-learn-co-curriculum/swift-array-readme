@@ -81,13 +81,13 @@ let cheeseSandwich: [String] = ["Bread", "Butter", "Cheese", "Lettuce", "Tomatoe
 
 ## Other Values in an Array
 
-As you would expect, arrays can contain values apart from strings, and created the same way. For example, to create an array recording attendance at your Saturday afternoon sandwich meet:
+As you would expect, arrays can contain values other than strings, and are created the same way. For example, to create an array recording attendance at your Saturday afternoon sandwich meet:
 
 ```swift
 var afternoonAttendance: [Int] = [10, 5, 15, 2, 12]
 ```
 
-Whilst you can create arrays that contain different values, each array may only contain values of the **same** type. For example, you cannot have an array of mixed number and string values.
+While you can create arrays that contain different values, each array may only contain values of the **same** type. For example, you cannot have an array of mixed number and string values.
 
 Try this array in a Playground and see what happens:
 
