@@ -1,4 +1,8 @@
-# Array
+# Arrays
+
+## Overview
+
+In this lesson, we'll introduce you to arrays. 
 
 ## Learning Objectives
 
@@ -8,7 +12,7 @@
 
 ## Arrays
 
-So far you've used variables to store `String` and `Int` values. For example, you could create a variable to represent an ingredient:
+Variables can store `String` and `Int` values. For example, you could create a variable to represent an ingredient:
 
 ```swift
 let ingredient = "Jalapeno"
