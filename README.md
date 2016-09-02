@@ -40,7 +40,7 @@ Here's how to create an array of values in Swift which represents the ingredient
 var list = ["Bread", "Butter", "Cheese", "Lettuce", "Tomatoes"]
 ```
 
-In this case, you are creating a variable with the `var` keyword called 'list'. Swift can infer that `[String]` is the correct type for the `list` variable, based on it's content.
+In this case, you are creating a variable with the `var` keyword called 'list'. Swift can infer that `[String]` is the correct type for the `list` variable, based on its content.
 
 Type the above into a Playground and if you option click the `list` variable you can see Swift's guess.
 
