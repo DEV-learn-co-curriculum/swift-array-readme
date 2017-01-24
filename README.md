@@ -10,6 +10,10 @@ In this lesson, we'll introduce you to arrays.
 * Access items in an array
 * Change items in an array
 
+## Video
+
+[![Array](http://img.youtube.com/vi/Qj7QBZqr870/0.jpg)](https://www.youtube.com/watch?v=Qj7QBZqr870 "Array")
+
 ## Arrays
 
 Variables can store `String` and `Int` values. For example, you could create a variable to represent an ingredient:
